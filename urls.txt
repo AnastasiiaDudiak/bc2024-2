@@ -1,3 +1,6 @@
 http://backend.course#AnastasiiaDudiak
 http%3A%2F%2Fbackend.course%3Fname%3D%22Anastasiia%20Dudiak%22%26github_name%3DAnastasiiaDudiak%26group%3D%22FEI-26s%22%26subgroup%3D%22Subgroup%202%22
 https://bank.gov.ua/NBUStatService/v1/statdirectory/res?date=202202&json
+http://backend.course#AnastasiiaDudiak
+http%3A%2F%2Fbackend.course%3Fname%3D%22Anastasiia%20Dudiak%22%26github_name%3DAnastasiiaDudiak%26group%3D%22FEI-26s%22%26subgroup%3D%22Subgroup%202%22
+https://bank.gov.ua/NBUStatService/v1/statdirectory/res?date=202202&json
